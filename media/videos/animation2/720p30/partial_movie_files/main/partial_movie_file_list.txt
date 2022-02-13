@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation2/720p30/partial_movie_files/main/1342159004_2755331083_2747648368.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation2/720p30/partial_movie_files/main/1353618911_1044038604_1990532342.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation2/720p30/partial_movie_files/main/1353618911_3964239999_2862182879.mp4'

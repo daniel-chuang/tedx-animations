@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation1-timed/720p30/partial_movie_files/main/1342159004_4121700829_4130045241.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation1-timed/720p30/partial_movie_files/main/1353618911_2148686299_2995236813.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation1-timed/720p30/partial_movie_files/main/1353618911_2912007238_1996299769.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation1-timed/720p30/partial_movie_files/main/1353618911_2148686299_1086948547.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation1-timed/720p30/partial_movie_files/main/1353618911_502030164_2636053594.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation1-timed/720p30/partial_movie_files/main/1353618911_2148686299_2532820778.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation1-timed/720p30/partial_movie_files/main/1353618911_3449574443_3042261756.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation1-timed/720p30/partial_movie_files/main/1353618911_2148686299_1441058246.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation1-timed/720p30/partial_movie_files/main/1353618911_2049432103_2515069055.mp4'

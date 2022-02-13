@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation2/1080p60/partial_movie_files/main/450974505_2369677035_379938548.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation2/1080p60/partial_movie_files/main/34786186_297528263_1641972486.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation2/1080p60/partial_movie_files/main/34786186_1767161244_2386607950.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation2/1080p60/partial_movie_files/main/34786186_2833289552_2104744874.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation2/1080p60/partial_movie_files/main/34786186_4227630388_2553019352.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation2/1080p60/partial_movie_files/main/34786186_197174723_3695964236.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation2/1080p60/partial_movie_files/main/34786186_1800584688_1420888318.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation2/1080p60/partial_movie_files/main/34786186_3755791507_39548784.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation2/1080p60/partial_movie_files/main/34786186_3504396320_1468134800.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation2/1080p60/partial_movie_files/main/34786186_4257540539_208674282.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation2/1080p60/partial_movie_files/main/34786186_297528263_4258520564.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx/media/videos/animation2/1080p60/partial_movie_files/main/34786186_4201704877_3523866825.mp4'
