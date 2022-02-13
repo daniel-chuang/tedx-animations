@@ -6,11 +6,11 @@ Everything created with [ManimCE](manim.community).
 
 ## About the TEDx Event
 
-### [Our Website](daniel-chuang.github.io/tedx-website)
+### [Our Website](www.daniel-chuang.github.io/tedx-website)
 
-### [About Me](daniel-chuang.github.io/tedx-website/team/daniel-c/)
+### [About Me](www.daniel-chuang.github.io/tedx-website/team/daniel-c/)
 
-### [About the Speaker](daniel-chuang.github.io/tedx-website/speakers/jonathan-w/)
+### [About the Speaker](www.daniel-chuang.github.io/tedx-website/speakers/jonathan-w/)
 
 ## Links to Animations
 
