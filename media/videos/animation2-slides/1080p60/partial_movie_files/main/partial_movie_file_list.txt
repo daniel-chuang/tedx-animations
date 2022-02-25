@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/user/Desktop/manim-master/tedx-animations/media/videos/animation2-slides/1080p60/partial_movie_files/main/450974505_2833289552_1952047181.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx-animations/media/videos/animation2-slides/1080p60/partial_movie_files/main/34786186_4227630388_3168436344.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx-animations/media/videos/animation2-slides/1080p60/partial_movie_files/main/34786186_3504396320_4875971.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx-animations/media/videos/animation2-slides/1080p60/partial_movie_files/main/34786186_4257540539_3426248876.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx-animations/media/videos/animation2-slides/1080p60/partial_movie_files/main/34786186_297528263_348180285.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx-animations/media/videos/animation2-slides/1080p60/partial_movie_files/main/34786186_1119205830_3283396156.mp4'
