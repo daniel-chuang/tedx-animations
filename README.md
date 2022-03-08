@@ -16,8 +16,10 @@ Everything created by Daniel Chuang with [ManimCE](manim.community).
 
 ## Links to Animations
 
-### [Animation 1 - Filtering Noisy Data](https://www.youtube.com/watch?v=mVF1FzgeQKY)
+### [Animation 1 - Filtering Noisy Data](https://www.youtube.com/watch?v=UKVdp-galg8)
 
-### [Animation 2 - Finding the Direction of a Sound](https://www.youtube.com/watch?v=nEqn77uwXs8)
+### [Animation 2 - Finding the Direction of a Sound](https://www.youtube.com/watch?v=Hm9rJg_XDrE)
 
-### [Animation 3 - Finding the Location of a Sound](https://www.youtube.com/watch?v=VZ8wZHFkK3w)
+### [Animation 3 - Finding the Location of a Sound](https://www.youtube.com/watch?v=kvnmjWhWxz0)
+
+### [Animation 4 - Infrasound Waves](https://www.youtube.com/watch?v=PJ0cwJvFgd8)
