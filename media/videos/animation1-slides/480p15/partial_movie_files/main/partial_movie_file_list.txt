@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/user/Desktop/manim-master/tedx-animations/media/videos/animation1-slides/480p15/partial_movie_files/main/3163782288_4121700829_4130045241.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx-animations/media/videos/animation1-slides/480p15/partial_movie_files/main/2201830969_2839631542_2995236813.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx-animations/media/videos/animation1-slides/480p15/partial_movie_files/main/2201830969_431767647_1996299769.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx-animations/media/videos/animation1-slides/480p15/partial_movie_files/main/2201830969_2839631542_1070226040.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx-animations/media/videos/animation1-slides/480p15/partial_movie_files/main/2201830969_1867491815_2325936144.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx-animations/media/videos/animation1-slides/480p15/partial_movie_files/main/2201830969_2839631542_3842124597.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx-animations/media/videos/animation1-slides/480p15/partial_movie_files/main/2201830969_60455626_3965855479.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx-animations/media/videos/animation1-slides/480p15/partial_movie_files/main/2201830969_2839631542_3047728143.mp4'
+file 'file:/Users/user/Desktop/manim-master/tedx-animations/media/videos/animation1-slides/480p15/partial_movie_files/main/2201830969_2231880216_2515069055.mp4'
